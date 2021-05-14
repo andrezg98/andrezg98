@@ -6,7 +6,7 @@ Hi! My name is Andrea Ziqing Gallardo and I'm a last-year **Image and Sound 📺
 **Something about me:**
 
 - 👩🏻‍💻 I'm currently working on my Bachelor Thesis.
-- 🎻 I'm also finishing **Professional Music Studies**, majoring as a *Cellist*.
+- 🎻 I'm a graduate in **Professional Music Studies**, majoring as a *Cellist*.
 - 💡 I'm interested in **Software** and **Data Science**, as well as Web development.
 - 📫 How to reach me: *andreaziqing98@gmail.com*
 
