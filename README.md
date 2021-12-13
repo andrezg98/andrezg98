@@ -17,7 +17,7 @@ Hi! My name is Andrea Ziqing Gallardo and I'm a **Sound and Image 📺🔊 Engin
 </a>
 
 <a href="https://www.kaggle.com/andreagallardo">
-  <img align="left" alt="Andrea's Kaggle" width="12px" src="https://symbols.getvecta.com/stencil_86/5_kaggle-icon.bc8851495f.svg" />
+  <img align="left" alt="Andrea's Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" />
 </a>
 
 <a href="https://open.spotify.com/user/andreaziqing?si=TARFI6zVQragWtegX3Wt0g">
