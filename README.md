@@ -21,5 +21,5 @@ Hi! My name is Andrea Ziqing Gallardo and I'm a **Sound and Image 📺🔊 Engin
 </a>
 
 <a href="https://open.spotify.com/user/andreaziqing?si=TARFI6zVQragWtegX3Wt0g">
-  <img align="left" alt="Andrea's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Andrea's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/336px-Spotify_logo_without_text.svg.png?20160123212544" />
 </a>
