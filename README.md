@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi! My name is Andrea Ziqing Gallardo and I'm a **Sound and Image 📺🔊 Engineer** by the *University Carlos III* of Madrid. I hold a **Masters Degree in Development of Applications and Services for Mobile Devices** 📱 by the *Universidad Politécnica* of Madrid.
+Hi! My name is Andrea Ziqing Gallardo and I'm a **Sound and Image 📺🔊 Engineer** by the *University Carlos III* of Madrid. I hold a **Masters Degree in Mobile Applications and Services Development** 📱 by the *Universidad Politécnica* of Madrid.
 <img align="right" alt="GIF" src="https://image.freepik.com/vector-gratis/chica-portatil-silla-concepto-independiente-o-estudio_113065-289.jpg" width="270" height="270" />
 
 **Something about me:**
