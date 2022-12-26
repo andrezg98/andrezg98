@@ -5,7 +5,7 @@ Hi! My name is Andrea Ziqing Gallardo and I'm a **Sound and Image 📺🔊 Engin
 
 **Something about me:**
 
-- 👩🏻‍💻 I'm currently working as an **iOS Software Engineer** at **Indra**.
+- 👩🏻‍💻 I'm currently working as an **iOS Software Engineer**.
 - 🎻 I'm also a graduate in **Professional Music Studies**, majoring as a *Cellist*.
 - 💡 I'm interested in **Software** and **Mobile App Development**, as well as Data Science (AI).
 - 📫 How to reach me: *andreaziqing98@gmail.com*
